@@ -7,7 +7,7 @@ This is a simple Guest Book application built using Laravel. It allows users to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/guest-book.git
+   git clone https://github.com/Elizaveta120502/guest-book.git
 
  2.  **Install dependencies:**
 ```bash
